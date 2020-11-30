@@ -1,4 +1,5 @@
-# STAT628-Module3
+# Yelp business reviews
+This project analyses the dataset of Yelp's online consumer reviews, extracts information and provides suggestions for restaurant owners
 
 ### Introduction
 
